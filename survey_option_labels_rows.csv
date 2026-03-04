@@ -1,0 +1,28 @@
+question_id,option_value,option_label
+privacy,app_usage,App usage patterns
+privacy,location,Location context
+privacy,mood,Self-reported mood
+privacy,none,None of the above
+privacy,screen_time,Screen time data
+seeking,avoidance,Avoidance
+seeking,connection,Social connection
+seeking,relaxation,Relaxation
+seeking,reward,Quick reward
+seeking,work_info,Work-related info
+slip_window,after_work,Right after work
+slip_window,between_meetings,Between meetings
+slip_window,commute,During commute
+slip_window,late_night,Late at night
+trigger,boredom,Boredom
+trigger,fatigue,Mental fatigue
+trigger,habit,Pure habit
+trigger,notification,A notification
+trigger,stressed,Feeling stressed
+why_insights,interested,Somewhat interested
+why_insights,love,"Absolutely, I'd love that"
+why_insights,not_for_me,Probably not for me
+why_insights,not_sure,Not sure yet
+work_style,flexible,Flexible & adaptive
+work_style,intense,Intense bursts of focus
+work_style,multitasker,Constant multitasker
+work_style,structured,Structured & scheduled
